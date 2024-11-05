@@ -1,4 +1,4 @@
-## showcase
+## Showcase
 
 This repository is for all websites using Justd. If you’re using Justd, feel free to make a pull request.
 
