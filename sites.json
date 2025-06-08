@@ -18,5 +18,25 @@
   {
     "name": "W3Show",
     "url": "https://w3show.now.sh"
+  },
+  {
+    "name": "Provision",
+    "url": "https://provision.irsyad.co"
+  },
+  {
+    "name": "Commerce",
+    "url": "https://commerce.irsyad.co"
+  },
+  {
+    "name": "Clinic",
+    "url": "https://clinic.irsyad.co"
+  },
+  {
+    "name": "Screencast",
+    "url": "https://screencast.irsyad.co"
+  },
+  {
+    "name": "Deploy",
+    "url": "https://deploy.irsyad.co"
   }
 ]
